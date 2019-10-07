@@ -21,7 +21,7 @@ We intend to bring relevant IAPs together offered under conference style with th
 We foresee that such an event will aid students to participate in meaningful exchange of rich ideas through diversified experiences and engagement in advanced technologies. 
 
 ## References
-Referencing to the discoverSUTD documentation, we will be able to have a centralised hub for sign ups as well as streamlining feedback and organisation operations as well as a IAP calendar which will allow students to plan out their activities for the period. We plan to document the entire process so that planning and resources can be referred to or reused so that this GIANT IAP will become easily repeatable for the next batch iof students
+Referencing to the [discoverSUTD](https://github.com/OpenSUTD/discovery-week-working-title) documentation, we will be able to have a centralised hub for sign ups as well as streamlining feedback and organisation operations as well as a IAP calendar which will allow students to plan out their activities for the period. We plan to document the entire process so that planning and resources can be referred to or reused so that this GIANT IAP will become easily repeatable for the next batch iof students
 
 ## Contributing
 Details are [here].
