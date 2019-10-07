@@ -39,6 +39,31 @@ Each day's timeline is from 9am to 9pm with 1 hour breaks in between for food(12
 |...    |
 
 We will submitting only one IAP application for this entire event.
+
 If you are submitting an activity/talk unto our agenda. please plan your event to be on weekdays.
 Do note that 25 Jan - 27 Jan Chinese Lunar New Year's Day.
+
+# Team Composition
+
+## Collaboration
+* ensure consistent tone throughout all efforts
+* fair representation of the community
+* must ensure conceptual integrity throughout the events and update key documents that represent this
+
+## Communications
+* Visual branding (guide, logos for events, copy)
+* Announcement channel (and it's management)
+* Calendaring
+
+## Content
+* Talks
+* Workshops
+* Excursions
+
+# Establishing Conceptual Map
+1. User Guide - Information to explain the event
+2, Demarcate activities into 'Levels' based on level of technical difficulty (to encourage students to attend things that will be most helpful to them
+3. Static one-stop page for signups and event timeline.
+4. Using repo page to host workshop slides\files\etc for after event use.
+
 
