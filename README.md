@@ -8,7 +8,7 @@ Do let us know if you can think of a better name for this event! That's why it's
 
 It is currently a working title because the name is still in the midst of being decided. Afterall, it’s a 3 week event and no longer just one week!
 
-Discovery Week is organised by 3DC, supported by OpenSUTD.
+3DC IAP Conference is organised by 3DC, supported by OpenSUTD.
 
 ## Current State
 All IAPS are currently conducted individually by seperate parties, which are usually a series of talks/activities/workshops that encourage students to pursue their interests. 
@@ -40,6 +40,10 @@ In general the workflow is:
 ## Timeline
 This is to cater to Fifth row leaders or individuals when they are planning. The detailed proposal is [here]
 
+## Things to do
+*Get people to submit their IAPs as Issues.
+*Set up timetables for days
+*Set up a page for sign ups
 
 ## Who's Who:
 
