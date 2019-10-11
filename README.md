@@ -1,8 +1,6 @@
 # 3DC IAP Conference (Working Title)
 **Decentralised planning for the IAP Month**
 
-Check out the [posts] for meeting notes
-
 Do let us know if you can think of a better name for this event! That's why it's still a working title.
 
 ## What is this?
@@ -38,4 +36,4 @@ This is to cater to Fifth row leaders or individuals when they are planning. The
 
 ## Who's Who:
 
-Discovery Week details: Caleb FOo ([email](mailto:caleb_foo@mymail.sutd.edu.sg))
+Discovery Week details: Caleb Foo ([email](mailto:caleb_foo@mymail.sutd.edu.sg))
