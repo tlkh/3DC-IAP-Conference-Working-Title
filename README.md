@@ -10,6 +10,13 @@ It is currently a working title because the name is still in the midst of being 
 
 Discovery Week is organised by 3DC, supported by OpenSUTD.
 
+## Current State
+All IAPS are currently conducted individually by seperate parties, which are usually a series of talks/activities/workshops that encourage students to pursue their interests. 
+
+Issues:
+* The IAPS may come in odd fashion with beginner events amongst the tougher events.
+* Timings may clash which disallows students from successively attending multiple IAPs.
+
 ## Concept
 Adopting the model of a Conference with large-scale talks targeted at the general audience but also breakout sessions that participants can sign-up for on an individualised manner.
 *This emphasizes on personal agency to allow for self-discovery of SUTD’s ecosystem*
