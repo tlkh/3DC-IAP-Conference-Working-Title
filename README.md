@@ -22,7 +22,7 @@ Issues:
 Adopting the model of a Conference with large-scale talks targeted at the general audience but also breakout sessions that participants can sign-up for on an individualised manner.
 *This emphasizes on personal agency to allow for self-discovery of SUTD’s ecosystem*
 
-## What's*  More clout to call bigger names in as speakers are good
+## What's in it for me?
 * There will be less admin workload as you will just need to provide us the information.
 * All resources regarding each activity will be uploaded/referenced here
 * Bigger IAP event will also have more influence able to draw bigger names in to speak or organise an activity together.
