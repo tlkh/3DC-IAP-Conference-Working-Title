@@ -20,7 +20,8 @@ Inspiration:
 
 ## Objectives
 1. Students - cultivating the desired culture through providing multiple avenues for resources and communities to impact 
-**Culture embodying the spirit of innovation, collaboration, having self-initiated projects, self-directed learning and broad-based skill integration
+
+**Culture embodying the spirit of innovation, collaboration, having self-initiated projects, self-directed learning and broad-based skill integration**
 
 2. SUTD - to expand the experiences provided by the school in this period that students can look forward to take advantage of
 
