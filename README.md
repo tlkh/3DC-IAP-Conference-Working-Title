@@ -44,8 +44,7 @@ In general the workflow is:
 1. Submit a proposal through Github Issues on our master repository
 2. We will reply to your issue and review it.
 3. Once it is reviewed and cleared, you will get a notification.
-4. If you’re proposing a session for the event, please proceed to Eventyay to submit your proposal. This is done to collate your details and to get ready to schedule you for the event. Otherwise, if you’re making a suggestion for improvement, the workflow will diverge and tailor to the idea given.
-
+4. The event will be uploaded to the event calendar
 
 ## Timeline
 This is to cater to Fifth row leaders or individuals when they are planning. The detailed proposal is [here]

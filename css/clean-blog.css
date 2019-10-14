@@ -1,11 +1,11 @@
 /*!
- * Start Bootstrap - Clean Blog v5.0.8 (https://startbootstrap.com/template-overviews/clean-blog)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/master/LICENSE)
+ * Start Bootstrap - 3DC IAP Conference v5.0.8 (https://3dcdsc.github.io/3DC-IAP-Conference-Working-Title/)
+ * Copyright 2013-2019 
+ * Licensed under MIT (https://github.com/BlackrockDigital/iapconference/blob/master/LICENSE)
  */
 
 body {
-  font-size: 20px;
+  font-size: 25px;
   color: #212529;
   font-family: 'Lora', 'Times New Roman', serif;
 }
@@ -408,4 +408,8 @@ footer .copyright {
 .btn-lg {
   font-size: 16px;
   padding: 25px 35px;
+}
+iframe{
+  margin-left: auto;
+  margin-right: auto;
 }
