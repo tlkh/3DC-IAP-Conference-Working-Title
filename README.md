@@ -1,6 +1,8 @@
 # 3DC IAP Conference (Working Title)
 **Decentralised planning for the IAP Month**
 
+Link for page: [here!](https://3dcdsc.github.io/3DC-IAP-Conference-Working-Title/)
+
 Do let us know if you can think of a better name for this event! That's why it's still a working title.
 
 ## What is this?
