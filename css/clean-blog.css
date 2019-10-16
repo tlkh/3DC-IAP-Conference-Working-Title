@@ -121,17 +121,17 @@ img::-moz-selection {
   }
   #mainNav .navbar-brand {
     padding: 10px 20px;
-    color: #fff;
+    color: #000;
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(220, 53, 69, 0.8);
   }
   #mainNav .navbar-nav > li.nav-item > a {
     padding: 10px 20px;
-    color: #fff;
+    color: #000;
   }
   #mainNav .navbar-nav > li.nav-item > a:focus, #mainNav .navbar-nav > li.nav-item > a:hover {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 193, 7, 0.8);
   }
 }
 
@@ -171,7 +171,7 @@ img::-moz-selection {
 header.masthead {
   margin-bottom: 50px;
   background: no-repeat center center;
-  background-color: #868e96;
+  background-color: #ffffff;
   background-attachment: scroll;
   position: relative;
   background-size: cover;
@@ -183,7 +183,7 @@ header.masthead .overlay {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #212529;
+  background-color: #b06b6b;
   opacity: 0.5;
 }
 
@@ -191,7 +191,7 @@ header.masthead .page-heading,
 header.masthead .post-heading,
 header.masthead .site-heading {
   padding: 200px 0 150px;
-  color: white;
+  color: black;
 }
 
 @media only screen and (min-width: 768px) {
@@ -232,6 +232,7 @@ header.masthead .site-heading .subheading {
 
 header.masthead .post-heading h1 {
   font-size: 35px;
+  color:black
 }
 
 header.masthead .post-heading .meta,
@@ -255,7 +256,7 @@ header.masthead .post-heading .meta {
 }
 
 header.masthead .post-heading .meta a {
-  color: #fff;
+  color: #333;
 }
 
 @media only screen and (min-width: 768px) {
@@ -408,8 +409,4 @@ footer .copyright {
 .btn-lg {
   font-size: 16px;
   padding: 25px 35px;
-}
-iframe{
-  margin-left: auto;
-  margin-right: auto;
 }
