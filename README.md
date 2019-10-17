@@ -40,6 +40,35 @@ We also hope that such an event with shared resources will lead to repeats of su
 Referencing to the [discoverSUTD](https://github.com/OpenSUTD/discovery-week-working-title) documentation, we will be able to have a centralised hub for sign ups as well as streamlining feedback and organisation operations as well as a IAP calendar which will allow students to plan out their activities for the period. We plan to document the entire process so that planning and resources can be referred to or reused so that this GIANT IAP will become easily repeatable for the next batch iof students
 
 ## Contributing
+
+Proposal Template:
+
+**Activity Name**
+---Fill here---
+**Short Description**
+---Fill here---
+**Student/ Organisation/ Club organizing this Activity**
+---Fill here---
+**Session intent (what to expect)**
+---Fill here---
+
+**Any prerequisite knowledge?** (Basic/ Advanced Activity)
+---Fill here---
+
+**Expected Participants**
+---Fill here---
+**Ideal Venue** (If you have a specific location in mind, please let us know)
+---Fill here---
+**Time and Date** (Subject to Change)
+---Fill here---
+
+**Speakers/Workshop facilitators**
+---Fill here---
+**Logistical details**
+---Fill here---
+**POC details**
+---Fill here--
+
 In general the workflow is:
 1. Submit a proposal through Github Issues on our master repository
 2. We will reply to your issue and review it.
