@@ -2,7 +2,7 @@
 name: Activity Proposal
 about: Proposal Template for Events
 title: "[Proposal] Activity Name"
-labels: proposal, needs review, activity
+labels: activity, needs review, proposal
 assignees: ''
 
 ---
