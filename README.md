@@ -42,7 +42,7 @@ Referencing to the [discoverSUTD](https://github.com/OpenSUTD/discovery-week-wor
 ## Contributing
 
 Proposal Template:
-[Create a new issue](https://github.com/jlord/sheetsee.js/issues/)
+[Create a new issue](https://github.com/3DCdsc/3DC-IAP-Conference-Working-Title/issues)
 
 In general the workflow is:
 1. Submit a proposal through Github Issues on our master repository
