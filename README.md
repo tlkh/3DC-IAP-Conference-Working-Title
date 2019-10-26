@@ -1,4 +1,4 @@
-# 3DC IAP Conference (Working Title)
+# IAP Conference (Working Title)
 **Decentralised planning for the IAP Month**
 
 Link for page: [here!](https://3dcdsc.github.io/3DC-IAP-Conference-Working-Title/)
