@@ -7,8 +7,10 @@
 body {
   font-size: 25px;
   color: #212529;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 }
+
 
 p {
   line-height: 1.5;
@@ -31,11 +33,12 @@ h6 {
 
 a {
   color: #212529;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   transition: all 0.2s;
 }
 
 a:focus, a:hover {
-  color: #0085A1;
+  color: #0A85F1;
 }
 
 blockquote {
@@ -252,7 +255,7 @@ header.masthead .post-heading .meta {
   font-size: 20px;
   font-weight: 300;
   font-style: italic;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 header.masthead .post-heading .meta a {
@@ -336,7 +339,8 @@ header.masthead .post-heading .meta a {
 .floating-label-form-group input::-webkit-input-placeholder,
 .floating-label-form-group textarea::-webkit-input-placeholder {
   color: #868e96;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 }
 
 .floating-label-form-group label {
