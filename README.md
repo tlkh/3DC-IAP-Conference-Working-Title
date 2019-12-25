@@ -1,4 +1,4 @@
-# 3DC IAP Conference (Working Title)
+# IAP Conference (Working Title)
 **Decentralised planning for the IAP Month**
 
 Link for page: [here!](https://3dcdsc.github.io/3DC-IAP-Conference-Working-Title/)
@@ -42,32 +42,7 @@ Referencing to the [discoverSUTD](https://github.com/OpenSUTD/discovery-week-wor
 ## Contributing
 
 Proposal Template:
-
-**Activity Name**
----Fill here---
-**Short Description**
----Fill here---
-**Student/ Organisation/ Club organizing this Activity**
----Fill here---
-**Session intent (what to expect)**
----Fill here---
-
-**Any prerequisite knowledge?** (Basic/ Advanced Activity)
----Fill here---
-
-**Expected Participants**
----Fill here---
-**Ideal Venue** (If you have a specific location in mind, please let us know)
----Fill here---
-**Time and Date** (Subject to Change)
----Fill here---
-
-**Speakers/Workshop facilitators**
----Fill here---
-**Logistical details**
----Fill here---
-**POC details**
----Fill here--
+[Create a new issue](https://github.com/3DCdsc/3DC-IAP-Conference-Working-Title/issues)
 
 In general the workflow is:
 1. Submit a proposal through Github Issues on our master repository
