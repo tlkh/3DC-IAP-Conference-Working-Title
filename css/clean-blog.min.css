@@ -4,10 +4,60 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/iapconference/blob/master/LICENSE)
  */
 body{
-    font-size:25px;
+    font-size:22px;
     color:#212529;
-    font-family:Lora,'Times New Roman',serif
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+
+.box{
+    
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px;
+  }
+  .box h2 #btn{
+    background-color:#03a9f4;
+    border-color: #fff;
+    border-radius: 5px;
+    color:#fff;
+    margin-left: 30px;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    
+  }
+  .box h2{
+    color: #fff;
+    background: #03a9f4;
+    padding: 10px 20px;
+  }
+  .box #box2{
+    display:"block";
+  }
+  .box #box2 ul{
+    position: relative;
+    background: #fff;
+  }
+  .box #box2 ul li{
+    font-size:10px;
+    list-style: none;
+    padding:10px;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, .1);
+    transform: transform 0.5s;
+  }
+  .box #box2 ul li:hover{
+   
+    transform:scale(1.1);
+    z-index: 100;
+    background: #03a9f4;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, .2);
+    
+  }
+  .box #box2 ul li a:hover{
+    font-size: larger;
+    color: #fff;
+  }
 p{
     line-height:1.5;margin:30px 0
 }
@@ -23,7 +73,7 @@ a{
     transition:all .2s
 }
 a:focus,a:hover{
-    color:#0085a1
+    color:#03a9f4
 }
 blockquote{
     font-style:italic;
@@ -194,7 +244,7 @@ img::-moz-selection{
         font-size:20px;
         font-weight:300;
         font-style:italic;
-        font-family:Lora,'Times New Roman',serif
+        font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
     header.masthead .post-heading .meta a{
         color:black

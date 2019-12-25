@@ -5,12 +5,11 @@
  */
 
 body {
-  font-size: 25px;
+  font-size: 22px;
   color: #212529;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 }
-
 
 p {
   line-height: 1.5;
@@ -38,7 +37,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #0A85F1;
+  color: #03a9f4;
 }
 
 blockquote {
