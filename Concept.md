@@ -12,14 +12,14 @@
 Using a conference-like model with larger-scale activities and talks to  with rising industries,
 it allows the individual  to be well positioned for students to scale their knowledge throughout the IAP period
 
-This is with **emphasis on personal agency** to allow for self-discovery and pursuit of knowledge towards rising/popular industries. 
+This is with **emphasis on personal agency** to allow for self-discovery and pursuit of knowledge towards rising/popular industries.
 
 Inspiration:
 1. [FOSSASIA](http://2019.fossasia.org/)
 2. [Web Summit](https://websummit.com/)
 
 ## Objectives
-1. Students - cultivating the desired culture through providing multiple avenues for resources and communities to impact 
+1. Students - cultivating the desired culture through providing multiple avenues for resources and communities to impact
 
 **Culture embodying the spirit of innovation, collaboration, having self-initiated projects, self-directed learning and broad-based skill integration**
 
@@ -63,8 +63,6 @@ Do note that 25 Jan - 27 Jan Chinese Lunar New Year's Day.
 
 # Establishing Conceptual Map
 1. User Guide - Information to explain the event
-2, Demarcate activities into 'Levels' based on level of technical difficulty (to encourage students to attend things that will be most helpful to them
+2. Demarcate activities into 'Levels' based on level of technical difficulty (to encourage students to attend things that will be most helpful to them
 3. Static one-stop page for signups and event timeline.
-4. Using repo page to host workshop slides\files\etc for after event use.
-
-
+4. Using repo page to host workshop slides/files/etc for after event use.
